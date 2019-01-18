@@ -95,5 +95,5 @@ void display()
 		printf("%d\t",temp->data);
 		temp=temp->next;
 	}
-	printf("\n");
+	printf("\n\n");
 }
